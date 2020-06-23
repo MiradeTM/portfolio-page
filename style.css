@@ -1,0 +1,8 @@
+img {
+    width:300px;
+    height: auto;
+}
+body{background-image: url('background.jpg');}
+.container{
+    background-color: white;
+}
