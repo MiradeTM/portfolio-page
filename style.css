@@ -2,7 +2,7 @@ img {
     width:300px;
     height: auto;
 }
-body{background-image: url('background.jpg');}
+body{background-image: url('./assets/images/background.jpg');}
 .container{
     background-color: white;
 }
