@@ -6,3 +6,8 @@ body{background-image: url('./assets/images/background.jpg');}
 .container{
     background-color: white;
 }
+.connectCard, .emailCard{
+    margin: 0 auto; /* Added */
+    float: none; /* Added */
+    margin-bottom: 10px; /* Added */
+}
